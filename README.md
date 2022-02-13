@@ -9,7 +9,7 @@
 
 
 &nbsp;&nbsp;
-[(./img/linkedin-light.svg)](https://linkedin.com/in/raymondsaliba1#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/raymondsaliba1#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/raymondsaliba1#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/raymond_saliba#gh-light-mode-only)
@@ -23,6 +23,6 @@
 
 </details>
 
-
+[website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/raymond_saliba
 [linkedin]: https://linkedin.com/in/raymondsaliba1
