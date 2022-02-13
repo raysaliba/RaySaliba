@@ -1,7 +1,7 @@
-# Hi there, I'm Raymond 
+# Hi, I'm Raymond 
 
 
-## I'm a Computer Science student at LAU Byblos
+I'm a Computer Science student at LAU Byblos and i love new technologies and gaming.
 
 
 
