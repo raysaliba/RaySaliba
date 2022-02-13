@@ -8,12 +8,10 @@
 ### Connect with me:
 
 
+My LinkedIn[LinkedIn](https://linkedin.com/in/raymondsaliba1#gh-light-mode-only)[LinkedIn](https://linkedin.com/in/raymondsaliba1#gh-dark-mode-only))
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/raymondsaliba1#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/raymondsaliba1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/raymond_saliba#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/raymond_saliba#gh-dark-mode-only)
+My Instagram[Instagram](https://instagram.com/raymond_saliba#gh-light-mode-only)
+[Instagram](https://instagram.com/raymond_saliba#gh-dark-mode-only)
 
 
 <details>
