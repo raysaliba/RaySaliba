@@ -8,9 +8,9 @@
 ### Connect with me:
 
 
-My LinkedIn[LinkedIn](https://linkedin.com/in/raymondsaliba1#gh-light-mode-only)[LinkedIn](https://linkedin.com/in/raymondsaliba1#gh-dark-mode-only))
+My [LinkedIn](https://linkedin.com/in/raymondsaliba1#gh-light-mode-only)[LinkedIn](https://linkedin.com/in/raymondsaliba1#gh-dark-mode-only)
 &nbsp;&nbsp;
-My Instagram[Instagram](https://instagram.com/raymond_saliba#gh-light-mode-only)
+My [Instagram](https://instagram.com/raymond_saliba#gh-light-mode-only)
 [Instagram](https://instagram.com/raymond_saliba#gh-dark-mode-only)
 
 
@@ -21,6 +21,5 @@ My Instagram[Instagram](https://instagram.com/raymond_saliba#gh-light-mode-only)
 
 </details>
 
-[website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/raymond_saliba
 [linkedin]: https://linkedin.com/in/raymondsaliba1
