@@ -1,7 +1,4 @@
-# Hi, I'm Raymond 
-
-
-I'm a Computer Science student at LAU Byblos and i love new technologies and gaming.
+Computer Science student at LAU Byblos 
 
 
 
